@@ -1,0 +1,10 @@
+C:\Users\степан\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/степан/Desktop/учёба/Лабы/0 лаба/untitled"
+CMake Error: The source directory "/cygdrive/c/Users/СЃС‚РµРїР°РЅ/Desktop/СѓС‡С‘Р±Р°/Р›Р°Р±С‹/0 Р»Р°Р±Р°/untitled/cmake-build-debug/"/cygdrive/c/Users/СЃС‚РµРїР°РЅ/Desktop/СѓС‡С‘Р±Р°/Р›Р°Р±С‹/0 Р»Р°Р±Р°/untitled"" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+
+CMake Error:
+  ------------------------------------------------------------------------------------
+  Selected CMake might be incompatible with the Cygwin environment.
+  In order to run on Cygwin, CMake needs to be specially compiled.
+  Please select either CMake bundled with CLion or CMake from the Cygwin installation.
+  ------------------------------------------------------------------------------------
